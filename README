@@ -1,0 +1,13 @@
+* Een lijst van domeinen opvragen IMPLEMENTED - TO TEST 
+* Huidig domein aan die lijst van domeinen toevoegen IMPLEMENTED - TO TEST 
+* Symlink leggen   IMPLEMENTED - TO TEST  
+* Controleren of de domeinen wel van die gebruiker zijn IMPLEMENTED - TO TEST 
+* Controleren of er al geen symlink ligt IMPLEMENTED - TO TEST 
+
+
+
+Feature Requests:
+
+* Database kunnen aanmaken 
+* settings.php aanmaken
+* een eigen $drupaldir kunnen opgeven, nu neem ik standaard /public_html/
